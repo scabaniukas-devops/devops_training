@@ -1,0 +1,8 @@
+#Secret files
+.env
+
+#Log-files
+*.log
+
+#Archives files
+*.tar.gz
